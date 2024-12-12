@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "cypress": "cypress open",
+    "log": "npx cypress run --record --key 2dc9c8f0-d7ca-4725-bef1-dddb60c1de2d",
+    "debug": "cypress:* npx cypress run --record --key 1a099c4a-72f9-4901-9187-8e4681236597"
+  },
+  "devDependencies": {
+    "cypress": "^13.16.0"
+  }
+}

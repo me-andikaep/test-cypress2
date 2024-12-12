@@ -1,0 +1,24 @@
+Starting test suite: Login Page Tests
+Starting test: should display all elements on the login page
+Test finished: should display all elements on the login page - Status: undefined
+Starting test: should display an error for incorrect email
+Test finished: should display an error for incorrect email - Status: undefined
+Starting test: should display an error for incorrect password
+Test finished: should display an error for incorrect password - Status: undefined
+Starting test: should redirect to landing page / mile.app when clik img mileapp
+Test finished: should redirect to landing page / mile.app when clik img mileapp - Status: undefined
+Starting test: should redirect to forgot password when clik text forgot password
+Test finished: should redirect to forgot password when clik text forgot password - Status: undefined
+Starting test: should redirect to sign up page when clik text sign up now
+Test finished: should redirect to sign up page when clik text sign up now - Status: undefined
+Starting test: if form password empty and click login show validation error
+Test finished: if form password empty and click login show validation error - Status: undefined
+Starting test: if form email empty and click login show validation error
+Test finished: if form email empty and click login show validation error - Status: undefined
+Starting test: should toggle password visibility when clicking the eye icon
+Test finished: should toggle password visibility when clicking the eye icon - Status: undefined
+Starting test: should check API availability
+Test finished: should check API availability - Status: undefined
+Starting test: should login successfully with valid credentials
+Test finished: should login successfully with valid credentials - Status: undefined
+Test suite completed: Login Page Tests

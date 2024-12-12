@@ -1,0 +1,15 @@
+========================================
+Starting test suite: task
+========================================
+Test finished: should show menu task - Status: passed - Duration: 2.26 seconds
+Test finished: should show navbar sidebar and content - Status: passed - Duration: 2.39 seconds
+
+========================================
+Test suite completed: Login Page Tests
+========================================
+│ Tests:        2
+│ Passing:      2
+│ Failing:      0
+│ Duration:     0 hours 0 minutes 4.65 seconds
+========================================
+

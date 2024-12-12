@@ -1,0 +1,23 @@
+========================================
+Starting test suite: Login Page Tests
+========================================
+Test finished: should display all elements on the login page - Status: passed - Duration: 5.95 seconds
+Test finished: should display an error for incorrect email - Status: passed - Duration: 2.20 seconds
+Test finished: should display an error for incorrect password - Status: passed - Duration: 2.11 seconds
+Test finished: should redirect to landing page / mile.app when clik img mileapp - Status: passed - Duration: 3.31 seconds
+Test finished: should redirect to forgot password when clik text forgot password - Status: passed - Duration: 0.64 seconds
+Test finished: should redirect to sign up page when clik text sign up now - Status: passed - Duration: 0.95 seconds
+Test finished: if form password empty and click login show validation error - Status: passed - Duration: 0.77 seconds
+Test finished: if form email empty and click login show validation error - Status: passed - Duration: 0.88 seconds
+Test finished: should toggle password visibility when clicking the eye icon - Status: passed - Duration: 0.71 seconds
+Test finished: should login successfully with valid credentials - Status: passed - Duration: 7.85 seconds
+
+========================================
+Test suite completed: Login Page Tests
+========================================
+│ Tests:        10
+│ Passing:      10
+│ Failing:      0
+│ Duration:     0 hours 0 minutes 25.38 seconds
+========================================
+
